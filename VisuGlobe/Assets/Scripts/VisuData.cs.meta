@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0021ad4c376d7c748baa2855a0d74e32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Cible: {instanceID: 0}
+  - VisuCube: {fileID: 4946530967452186573, guid: 30c92f8c41565574c98a7b3720a5f7a6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
